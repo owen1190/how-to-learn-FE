@@ -12,10 +12,12 @@
 - [react](https://github.com/owen1190/how-to-learn-FE#react)
 - [react-native](https://github.com/owen1190/how-to-learn-FE#react-native)
 - [HTTP](https://github.com/owen1190/how-to-learn-FE#http)
+- [Babel](https://github.com/owen1190/how-to-learn-FE#Babel)
+- [Webpack](https://github.com/owen1190/how-to-learn-FE#Webpack)
 - [Gulp](https://github.com/owen1190/how-to-learn-FE#gulp)
 - [less](https://github.com/owen1190/how-to-learn-FE#less)
 - [sass](https://github.com/owen1190/how-to-learn-FE#sass)
-- []()
+- [stylus]((https://github.com/owen1190/how-to-learn-FE#stylus)
 
 
 #编程语言
@@ -34,6 +36,7 @@ w3schools的中文版好久没更新，所以推荐通过英文版来学习html�
 [ECMAScript 6入门-阮一峰](http://es6.ruanyifeng.com/#README)
 
 [JavaScript设计模式](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)
+
 ##node.js
 [node入门](http://www.nodebeginner.org/index-zh-cn.html)
 [官方文档](https://nodejs.org/api/)
@@ -41,16 +44,19 @@ w3schools的中文版好久没更新，所以推荐通过英文版来学习html�
 [nodejs教程-菜鸟教程](http://www.runoob.com/nodejs/nodejs-tutorial.html)
 ##TypeScript
 [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+[官方文档（中文版）](http://www.tslang.cn/docs/tutorial.html)
 
-
-#框架
 ##boostrap
 [w3schools](http://w3schools.bootcss.com/bootstrap/default.html)
 [中文文档](http://v3.bootcss.com/getting-started/)
+
 ##jquery
 [w3schools](http://w3schools.bootcss.com/jquery/default.html)
 [从零开始学习jQuery](http://www.cnblogs.com/zhangziqiu/archive/2009/04/30/jQuery-Learn-1.html)
 [jquery api 中文文档](http://www.jquery123.com/)
+
+#框架
+
 ##angular
 
 - angular1
@@ -71,22 +77,36 @@ w3schools的中文版好久没更新，所以推荐通过英文版来学习html�
 [React-Native入门指南](https://github.com/vczero/react-native-lesson)
 [官方文档](https://facebook.github.io/react-native/docs/getting-started.html)
 
-#其他
+#工具
 
 ##HTTP
 [HTTP协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
 
+##Babel
+js编译器
+[Babel中文网](http://babeljs.cn/)
+
+##Webpack
+打包工具
+[Webpack 中文指南](http://webpackdoc.com/)
+
 ##Gulp
+自动构建工具
 [gulp中文文档](http://www.gulpjs.com.cn/docs/)
 
 ##less
+CSS预处理
 [less入门](http://www.runoob.com/manual/lessguide/)
 [less](http://www.bootcss.com/p/lesscss/)
 
 ##sass
+CSS预处理
 [sass](http://www.w3cplus.com/sassguide/)
 
-##工具
+##stylus
+[stylus](https://segmentfault.com/a/1190000002712872)
+
+#其他
 ###兼容性检测
 [Can I use](http://caniuse.com/)
 
