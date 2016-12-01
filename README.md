@@ -12,12 +12,15 @@
 - [react](https://github.com/owen1190/how-to-learn-FE#react)
 - [react-native](https://github.com/owen1190/how-to-learn-FE#react-native)
 - [HTTP](https://github.com/owen1190/how-to-learn-FE#http)
-- [Babel](https://github.com/owen1190/how-to-learn-FE#Babel)
-- [Webpack](https://github.com/owen1190/how-to-learn-FE#Webpack)
-- [Gulp](https://github.com/owen1190/how-to-learn-FE#gulp)
-- [less](https://github.com/owen1190/how-to-learn-FE#less)
-- [sass](https://github.com/owen1190/how-to-learn-FE#sass)
-- [stylus]((https://github.com/owen1190/how-to-learn-FE#stylus)
+- [Babel](https://github.com/owen1190/how-to-learn-FE#js编译器Babel)
+- [Webpack](https://github.com/owen1190/how-to-learn-FE#打包工具Webpack)
+- [Gulp](https://github.com/owen1190/how-to-learn-FE#自动构建工具Gulp)
+- [less](https://github.com/owen1190/how-to-learn-FE#CSS预处理less)
+- [sass](https://github.com/owen1190/how-to-learn-FE#CSS预处理sass)
+- [stylus](https://github.com/owen1190/how-to-learn-FE#CSS预处理stylus)
+-[兼容性检测](https://github.com/owen1190/how-to-learn-FE#兼容性检测)
+-[在线编程](https://github.com/owen1190/how-to-learn-FE#在线编程)
+-[课程](https://github.com/owen1190/how-to-learn-FE#课程)
 
 
 #编程语言
@@ -82,28 +85,25 @@ w3schools的中文版好久没更新，所以推荐通过英文版来学习html�
 ##HTTP
 [HTTP协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
 
-##Babel
-js编译器
+##js编译器Babel
 [Babel中文网](http://babeljs.cn/)
 
-##Webpack
-打包工具
+##打包工具Webpack
 [Webpack 中文指南](http://webpackdoc.com/)
 
-##Gulp
-自动构建工具
+##自动构建工具Gulp
+
 [gulp中文文档](http://www.gulpjs.com.cn/docs/)
 
-##less
-CSS预处理
+##CSS预处理less
+
 [less入门](http://www.runoob.com/manual/lessguide/)
 [less](http://www.bootcss.com/p/lesscss/)
 
-##sass
-CSS预处理
+##CSS预处理sass
 [sass](http://www.w3cplus.com/sassguide/)
 
-##stylus
+##CSS预处理stylus
 [stylus](https://segmentfault.com/a/1190000002712872)
 
 #其他
