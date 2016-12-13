@@ -18,19 +18,20 @@
 - [less](https://github.com/owen1190/how-to-learn-FE#CSS预处理less)
 - [sass](https://github.com/owen1190/how-to-learn-FE#CSS预处理sass)
 - [stylus](https://github.com/owen1190/how-to-learn-FE#CSS预处理stylus)
--[兼容性检测](https://github.com/owen1190/how-to-learn-FE#兼容性检测)
--[在线编程](https://github.com/owen1190/how-to-learn-FE#在线编程)
--[课程](https://github.com/owen1190/how-to-learn-FE#课程)
+- [兼容性检测](https://github.com/owen1190/how-to-learn-FE#兼容性检测)
+- [在线编程](https://github.com/owen1190/how-to-learn-FE#在线编程)
+- [课程](https://github.com/owen1190/how-to-learn-FE#课程)
 
 
 #编程语言
 ##HTML
 [w3schools](http://w3schools.bootcss.com/html/default.html)
-w3schools的中文版好久没更新，所以推荐通过英文版来学习html。
+
 ##CSS
 [w3schools](http://w3schools.bootcss.com/css/default.html)
 [css3参考手册](http://www.phpstudy.net/css3/)
 [css布局](http://zh.learnlayout.com/)
+
 ##JavaScript
 [JavaScript教程-廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
@@ -45,6 +46,7 @@ w3schools的中文版好久没更新，所以推荐通过英文版来学习html�
 [官方文档](https://nodejs.org/api/)
 [七天学会nodejs](https://nqdeng.github.io/7-days-nodejs/)
 [nodejs教程-菜鸟教程](http://www.runoob.com/nodejs/nodejs-tutorial.html)
+
 ##TypeScript
 [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 [官方文档（中文版）](http://www.tslang.cn/docs/tutorial.html)
