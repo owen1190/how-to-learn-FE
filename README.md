@@ -29,12 +29,16 @@
 
 ##CSS
 [w3schools](http://w3schools.bootcss.com/css/default.html)
+
 [css3参考手册](http://www.phpstudy.net/css3/)
+
 [css布局](http://zh.learnlayout.com/)
 
 ##JavaScript
 [JavaScript教程-廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+
 [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+
 [JavaScript 闯关记](http://www.jianshu.com/p/83bd92538634)
 
 [ECMAScript 6入门-阮一峰](http://es6.ruanyifeng.com/#README)
@@ -43,8 +47,11 @@
 
 ##node.js
 [node入门](http://www.nodebeginner.org/index-zh-cn.html)
+
 [官方文档](https://nodejs.org/api/)
+
 [七天学会nodejs](https://nqdeng.github.io/7-days-nodejs/)
+
 [nodejs教程-菜鸟教程](http://www.runoob.com/nodejs/nodejs-tutorial.html)
 
 ##TypeScript
@@ -109,14 +116,21 @@
 [stylus](https://segmentfault.com/a/1190000002712872)
 
 #其他
-###兼容性检测
+##兼容性检测
 [Can I use](http://caniuse.com/)
 
-###在线编程
+##在线编程
 - [codepen](http://codepen.io/)
 - [jsfiddle](https://jsfiddle.net/)
 - [jsbin](http://jsbin.com/)
 
-###课程
+##课程
 [freecodecamp](https://www.freecodecamp.cn/challenges/style-the-html-body-element)
+
 [百度前端技术学院](http://ife.baidu.com/)
+
+##技术周报
+[奇舞周刊](http://weekly.75team.com/issue104.html)
+[FEX](http://fex.baidu.com/weekly/)
+[众成翻译](http://www.zcfy.cc/article/archive)
+[湾区日报](https://wanqu.co/)
