@@ -85,6 +85,7 @@
 ##react
 [React 入门实例教程-阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
 [官方文档](https://facebook.github.io/react/docs/installation.html)
+[官方文档（中文版）](http://www.css88.com/react/docs/getting-started.html)
 ##react-native
 [React-Native入门指南](https://github.com/vczero/react-native-lesson)
 [官方文档](https://facebook.github.io/react-native/docs/getting-started.html)
