@@ -60,7 +60,7 @@
 
 ##boostrap
 [w3schools](http://w3schools.bootcss.com/bootstrap/default.html)
-[中文文档](http://v3.bootcss.com/getting-started/)
+[官方文档（中文版）](http://v3.bootcss.com/getting-started/)
 
 ##jquery
 [w3schools](http://w3schools.bootcss.com/jquery/default.html)
@@ -86,9 +86,13 @@
 [React 入门实例教程-阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
 [官方文档](https://facebook.github.io/react/docs/installation.html)
 [官方文档（中文版）](http://www.css88.com/react/docs/getting-started.html)
+
 ##react-native
 [React-Native入门指南](https://github.com/vczero/react-native-lesson)
 [官方文档](https://facebook.github.io/react-native/docs/getting-started.html)
+
+##Weex
+[Weex](https://weex-project.io/cn/guide/)
 
 #工具
 
