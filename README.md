@@ -1,26 +1,6 @@
 本文档会不断更新，请大家多多fork。
-#目录
-- [HTML](https://github.com/owen1190/how-to-learn-FE#html)
-- [CSS](https://github.com/owen1190/how-to-learn-FE#css)
-- [JavaScript](https://github.com/owen1190/how-to-learn-FE#javascript)
-- [node.js](https://github.com/owen1190/how-to-learn-FE#nodejs)
-- [TypeScript](https://github.com/owen1190/how-to-learn-FE#typescript)
-- [bootstrap](https://github.com/owen1190/how-to-learn-FE#bootstrap)
-- [jquery](https://github.com/owen1190/how-to-learn-FE#jquery)
-- [angular](https://github.com/owen1190/how-to-learn-FE#angular)
-- [vue.js](https://github.com/owen1190/how-to-learn-FE#vuejs)
-- [react](https://github.com/owen1190/how-to-learn-FE#react)
-- [react-native](https://github.com/owen1190/how-to-learn-FE#react-native)
-- [HTTP](https://github.com/owen1190/how-to-learn-FE#http)
-- [Babel](https://github.com/owen1190/how-to-learn-FE#js编译器babel)
-- [Webpack](https://github.com/owen1190/how-to-learn-FE#打包工具webpack)
-- [Gulp](https://github.com/owen1190/how-to-learn-FE#自动构建工具gulp)
-- [less](https://github.com/owen1190/how-to-learn-FE#css预处理less)
-- [sass](https://github.com/owen1190/how-to-learn-FE#css预处理sass)
-- [stylus](https://github.com/owen1190/how-to-learn-FE#css预处理stylus)
-- [兼容性检测](https://github.com/owen1190/how-to-learn-FE#兼容性检测)
-- [在线编程](https://github.com/owen1190/how-to-learn-FE#在线编程)
-- [课程](https://github.com/owen1190/how-to-learn-FE#课程)
+#前端学习体系
+![](http://i.imgur.com/H0XpdtQ.png)
 
 
 #编程语言
@@ -119,6 +99,12 @@
 
 ##CSS预处理stylus
 [stylus](https://segmentfault.com/a/1190000002712872)
+
+##包管理器yarn
+[yarn](https://yarnpkg.com/zh-Hans/)
+
+##Chrome 开发者工具
+[Chrome 开发者工具](http://www.css88.com/doc/chrome-devtools/)
 
 #其他
 ##兼容性检测
